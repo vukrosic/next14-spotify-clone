@@ -30,6 +30,13 @@ You will need to setup Clerk, Convex and other things. Don't forget to add your 
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
+
+NEXT_PUBLIC_HOSTING_URL=
+
+STRIPE_SUBSCRIPTION_PRICE_ID=
+NEXT_STRIPE_PUBLISHABLE_KEY=
+NEXT_STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
 ```
 
 ## Run the app
